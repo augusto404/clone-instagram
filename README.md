@@ -10,4 +10,4 @@ Esse projeto foi feito pelas aulas da professara [Gabriela Pinheiro](https://git
 <br><br>
 
 ---
-[CLIQUE AQUI E ACESSE O SITE]()
+[CLIQUE AQUI E ACESSE O SITE](https://augusto404.github.io/clone-instagram/)
