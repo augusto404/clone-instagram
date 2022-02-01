@@ -1,5 +1,5 @@
 # Recriando a landing page do Instagram.
-Esse projeto foi feito pelas aulas da professara [Gabriela Pinheiro](https://github.com/SpruceGabriela), da plataforma [Digital Innovation One](https://web.dio.me/).
+Esse projeto foi feito pelas aulas da professora [Gabriela Pinheiro](https://github.com/SpruceGabriela), da plataforma [Digital Innovation One](https://web.dio.me/).
 
 ## Detalhes do projeto
 - Os botões de download são funcionais
